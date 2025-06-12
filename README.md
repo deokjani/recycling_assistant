@@ -115,20 +115,6 @@ You: 스티로폼은요?
 버링이: 스티로폼도 재활용이 가능해요! 관악구에서는...
 ```
 
-## 확장 계획
-- [ ] 더 많은 지역 데이터 추가
-- [ ] 웹 인터페이스 개발
-- [ ] 이미지 인식 기능 (쓰레기 사진 분류)
-- [ ] 다국어 지원
-- [ ] 모바일 앱 개발
-
-## 기여 방법
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 라이선스
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
 
