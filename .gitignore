@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# 환경 설정
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 프로젝트 특정
+/deleted_backups/
+*.old
+workflow_diagram.html
+
+# 로그
+*.log
+
+# 임시 파일
+*.tmp
+*.temp
